@@ -9,6 +9,7 @@ const AboutItems = (props) => {
                 <div className="ms-4">
                   <h6>{props.title}</h6>
                   <span>{props.desc}</span>
+                  <div>this is last update</div>
                 </div>
               </div>
   )
